@@ -1,3 +1,4 @@
 Jupiter is a gas giant planet.
 Jupiter's atmosphere is poisonous.
 Io is too hot!
+Ganymede is rocky.
